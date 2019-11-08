@@ -6,7 +6,9 @@ This is the famous SBAdmin2 dashboard template in ServerSide Blazor form with AS
 #Work in Progress
 Currently work in progress.
 
-Done - Convert main template and pages to Blazor 
+Done - Convert main template and pages to Blazor
+
 ToDo - Convert login pages and update to ASP identity
+
 ToDo - Cleanup original files
 
